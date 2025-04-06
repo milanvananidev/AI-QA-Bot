@@ -1,4 +1,4 @@
-# 🧵 Stitching AI Q&A Bot (POC)
+# 🧵 AI Q&A Bot (POC)
 
 This is a **Proof-of-Concept (POC)** for a simple AI chatbot that answers stitching-related questions using sentence embeddings and cosine similarity.
 
@@ -9,7 +9,7 @@ Built with [@xenova/transformers](https://www.npmjs.com/package/@xenova/transfor
 ## 📀 Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/milanvananidev/AI-QA-Bot.git
 cd vector-embeddings
 npm install @xenova/transformers
 ```
